@@ -1,4 +1,4 @@
-[rubbish package project]
+[rubbish]
 name = "hello-world"
 version = "1.0.0"
 description = "My first Python package"
