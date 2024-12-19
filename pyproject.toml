@@ -1,0 +1,12 @@
+[rubbish package project]
+name = "hello-world"
+version = "1.0.0"
+description = "My first Python package"
+requires-python = ">=3.8"
+authors = [
+    {name = "David Marshall Ingram", email = "david.marshall@dlr.de"},
+]
+dependencies = [
+    "numpy",
+    "pandas",
+]

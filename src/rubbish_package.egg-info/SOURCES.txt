@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/rubbish_package/__init__.py
+src/rubbish_package/example.py
+src/rubbish_package.egg-info/PKG-INFO
+src/rubbish_package.egg-info/SOURCES.txt
+src/rubbish_package.egg-info/dependency_links.txt
+src/rubbish_package.egg-info/top_level.txt
+tests/test_main.py
